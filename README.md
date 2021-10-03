@@ -1,7 +1,8 @@
-# proyecto  Blog 3 
-## esta realizado emn el  modulo 8 de AIEP
+# proyecto  Blog 3
+## esta realizado en el modulo8 de AIEP
 
-### Obketivos del Modulo:
+
+### OBJETIVOS
 * aprender  como  realizar  un proyecto en Ruby on Rails 
 *  aprender las particularidades del framework
 
@@ -16,10 +17,10 @@ end
 |nimbre |apellido|
 |----------|-------|
 |jacqueline| Rios|
-
+|-----------|------|
 |jacqueline| RIos|
 
-
+MI PRIMER PROYECTO RAILS 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
